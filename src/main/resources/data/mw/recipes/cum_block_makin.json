@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    },
+    {
+      "item": "mw:cum"
+    }
+  ],
+  "result": {
+    "item": "mw:semen_block"
+  }
+}

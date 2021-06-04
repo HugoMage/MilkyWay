@@ -1,0 +1,7 @@
+
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "mw:block/semen_block"
+  }
+}

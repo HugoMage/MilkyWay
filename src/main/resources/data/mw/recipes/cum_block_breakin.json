@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mw:semen_block"
+    }
+
+  ],
+  "result": {
+    "item": "mw:cum",
+    "count": 9
+  }
+}

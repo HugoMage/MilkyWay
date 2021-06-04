@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "mw:cum_ore"
+  },
+  "result": "mw:cum",
+  "experience": 0.75,
+  "cookingtime": 100
+}

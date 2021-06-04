@@ -1,0 +1,15 @@
+
+{
+  "config": {
+    "top_material": {
+      "Name": "mw:flesh_block"
+    },
+    "under_material": {
+      "Name": "mw:poop_block"
+    },
+    "underwater_material": {
+      "Name": "mw:poop_block"
+    }
+  },
+  "type": "minecraft:desert"
+}
